@@ -4,7 +4,7 @@ import { NewsCarousel } from "./news-portal/news-carousel";
 const Home = () => {
   return (
     <div className="jumbotron">
-      <h1 className="display-4">Hello, My React  app!</h1>
+      <h1 className="display-4">Hello, This Rabbani!</h1>
       <p className="lead">
         This is a simple app, a simple jumbotron-style component for
         calling extra attention to featured content or information.
